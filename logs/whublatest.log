@@ -120,3 +120,14 @@
 2021-50-20 11:50:13.044 [main] INFO  com.phptravels.utils.Log - Constructor has been initialized
 2021-50-20 11:50:13.890 [main] INFO  com.phptravels.utils.Log - Successfully focus has been on child window
 2021-50-20 11:50:22.158 [main] INFO  com.phptravels.utils.Log - Closed the Browser
+2021-48-07 22:48:56.962 [main] INFO  com.phptravels.utils.Log - Constructor has been initialized
+2021-49-07 22:49:14.189 [main] INFO  com.phptravels.utils.Log - Closed the Browser
+2021-49-07 22:49:20.741 [main] INFO  com.phptravels.utils.Log - Constructor has been initialized
+2021-49-07 22:49:20.969 [main] INFO  com.phptravels.utils.Log - Verified Title of the page successfully
+2021-49-07 22:49:22.195 [main] INFO  com.phptravels.utils.Log - Closed the Browser
+2021-49-07 22:49:28.038 [main] INFO  com.phptravels.utils.Log - Constructor has been initialized
+2021-49-07 22:49:28.201 [main] INFO  com.phptravels.utils.Log - Verified subtext of Title of the page successfully
+2021-49-07 22:49:29.441 [main] INFO  com.phptravels.utils.Log - Closed the Browser
+2021-49-07 22:49:34.959 [main] INFO  com.phptravels.utils.Log - Constructor has been initialized
+2021-49-07 22:49:35.311 [main] INFO  com.phptravels.utils.Log - Successfully focus has been on child window
+2021-49-07 22:49:42.728 [main] INFO  com.phptravels.utils.Log - Closed the Browser
