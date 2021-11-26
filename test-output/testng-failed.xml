@@ -6,7 +6,7 @@
       <class name="com.phptravels.testcases.LoginPageTest">
         <methods>
           <include name="tearDown"/>
-          <include name="clickOnLoginButton"/>
+          <include name="navigateToTest"/>
           <include name="setUp"/>
         </methods>
       </class> <!-- com.phptravels.testcases.LoginPageTest -->
